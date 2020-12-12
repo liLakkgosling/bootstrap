@@ -1,0 +1,37 @@
+body{
+	background: url(img/first/Rectangle3.png) no-repeat;
+	 
+  	background-size: cover;
+}
+nav{
+	background: rgba(51, 51, 51, 0);
+
+}
+a{
+	color: white;
+}
+a:hover{
+	color: rgba(209, 169, 84, 1);
+}
+h1,p{
+	color: white;
+}
+
+.btn{
+	color: white;
+}
+.btn{
+	background-color:rgba(209, 169, 84, 1);
+
+}
+
+div.row div.pr{
+	height: 100px;
+	width: 2px;
+}
+.css{
+	color: rgba(209, 169, 84, 1);
+}
+.size20{
+	font-size: 20px;
+}
